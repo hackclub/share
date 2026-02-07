@@ -40,3 +40,23 @@ body {
 	background-repeat: no-repeat;
 	background-color: white;
 }
+
+.button {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	aspect-ratio: 332 / 102;
+	background: url("images/button.svg");
+	background-size: cover;
+	width: 250px;
+	color: white;
+	margin-top: 35px;
+}
+
+a {
+	transition: transform 0.2s;
+}
+
+a:hover {
+	transform: scale(1.08) rotate(-3deg);
+}

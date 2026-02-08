@@ -9,7 +9,7 @@
 </div>
 
 <div class="w-full flex justify-center">
-	<div class="w-full max-w-4xl">
+	<div class="w-full max-w-4xl flex flex-col gap-6">
 		{@render children()}
 	</div>
 </div>

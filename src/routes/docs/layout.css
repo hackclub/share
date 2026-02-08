@@ -1,4 +1,21 @@
+body {
+	font-family: "PhantomSans";
+	font-size: 18px;
+}
+
 h1 {
+	font-family: "Excalifont";
 	font-size: 50px;
-	margin-bottom: 25px;
+	margin-bottom: 8px;
+}
+
+ul {
+	margin-top: -18px;
+	list-style: inside;
+	margin-left: 24px;
+}
+
+li {
+	text-decoration: underline;
+	text-decoration-style: wavy;
 }

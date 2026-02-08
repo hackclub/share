@@ -32,8 +32,8 @@
 	</a>
 </div>
 
-<a href="https://hackclub.com/" target="_blank" rel="noreferrer">
-	<img src="/images/hackclub_branding.svg" class="absolute w-52 top-0 left-16" />
+<a href="https://hackclub.com/" target="_blank" rel="noreferrer" class="absolute w-52 top-0 left-16" >
+	<img src="/images/hackclub_branding.svg"/>
 </a>
 <img src="/images/tiny4fsk.png" class="absolute w-lg right-0 bottom-0 drop-shadow -z-1" />
 <img src="/images/icepi.png" class="absolute -left-30 -rotate-20 w-md top-46 drop-shadow -z-1" />

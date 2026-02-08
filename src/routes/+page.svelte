@@ -1,5 +1,5 @@
 <div class="flex justify-end py-12 px-22">
-	<a href="/docs" class="underline decoration-wavy">Learn how to Ship →</a>
+	<a href="/docs" class="underline decoration-wavy">Learn How to Ship (IMPORTANT!) →</a>
 </div>
 <div class="flex flex-col items-center w-full pt-20">
 	<h1 class="text-7xl font-bold">Ship Projects, Get Prizes</h1>

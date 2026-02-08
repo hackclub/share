@@ -3,10 +3,18 @@ body {
 	font-size: 18px;
 }
 
-h1 {
+h1, h2, h3, h4 {
 	font-family: "Excalifont";
+}
+
+h1 {
 	font-size: 50px;
 	margin-bottom: 8px;
+}
+
+h2 {
+	margin-top: 30px;
+	font-size: 30px;
 }
 
 ul {
@@ -15,7 +23,7 @@ ul {
 	margin-left: 24px;
 }
 
-li {
+a {
 	text-decoration: underline;
 	text-decoration-style: wavy;
 }

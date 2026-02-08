@@ -5,7 +5,7 @@
 </script>
 
 <div class="py-12 px-22">
-	<a href="/" class="underline decoration-wavy">← Return home :D</a>
+	<a href="/">← Return home :D</a>
 </div>
 
 <div class="w-full flex justify-center">

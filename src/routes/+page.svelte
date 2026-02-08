@@ -1,10 +1,12 @@
 <div class="flex justify-end py-12 px-22">
 	<a href="/docs" class="underline decoration-wavy">Learn How to Ship (IMPORTANT!) →</a>
 </div>
-<div class="flex flex-col items-center w-full pt-20">
-	<h1 class="text-7xl font-bold">Ship Projects, Get Prizes</h1>
+<div class="flex flex-col items-center w-full pt-16">
+	<h1 class="text-7xl font-bold">Share Projects, Get Prizes</h1>
 
-	<div class="flex justify-around gap-24 mt-24">
+	<p class="mt-7 text-slate-600">Submits <span class="underline">hardware</span> projects you've shared with the world to get cool prizes like custom shirts, stickers and much more!</p>
+
+	<div class="flex justify-around gap-24 mt-14">
 		<div class="tier bg-[url('/images/normal_circle.svg')]">
 			<p class="text-xl">Tier 1</p>
 			<span class="mt-6">10 Stars or</span>
@@ -30,7 +32,10 @@
 	</a>
 </div>
 
+<a href="https://hackclub.com/" target="_blank" rel="noreferrer">
+	<img src="/images/hackclub_branding.svg" class="absolute w-52 top-0 left-16" />
+</a>
 <img src="/images/tiny4fsk.png" class="absolute w-lg right-0 bottom-0 drop-shadow -z-1" />
-<img src="/images/icepi.png" class="absolute -left-30 -rotate-20 w-md top-36 drop-shadow -z-1" />
+<img src="/images/icepi.png" class="absolute -left-30 -rotate-20 w-md top-46 drop-shadow -z-1" />
 <img src="/images/cheetahmx4mini.png" class="absolute -bottom-24 -left-12 w-md drop-shadow -z-1" />
 

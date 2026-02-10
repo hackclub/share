@@ -2,21 +2,21 @@
 
 @font-face {
 	font-family: 'PhantomSans';
-	src: url('fonts/PhantomSans_Bold.woff') format('woff');
+	src: url('/fonts/PhantomSans_Bold.woff') format('woff');
 	font-weight: bold;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'PhantomSans';
-	src: url('fonts/PhantomSans_Regular.woff') format('woff');
+	src: url('/fonts/PhantomSans_Regular.woff') format('woff');
 	font-weight: regular;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'Excalifont';
-	src: url('fonts/Excalifont_Regular.woff2') format('woff2');
+	src: url('/fonts/Excalifont_Regular.woff2') format('woff2');
 	font-weight: regular;
 	font-style: normal;
 }
@@ -46,7 +46,7 @@ body {
 	align-items: center;
 	justify-content: center;
 	aspect-ratio: 332 / 102;
-	background: url("images/button.svg");
+	background: url("/images/button.svg");
 	background-size: cover;
 	width: 250px;
 	color: white;

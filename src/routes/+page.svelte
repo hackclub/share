@@ -10,18 +10,18 @@
 	<div class="flex justify-around gap-24 mt-14">
 		<div class="tier bg-[url('/images/normal_circle.svg')]">
 			<p class="text-xl">Tier 1</p>
-			<span class="mt-6">7 stars or</span>
+			<span class="mt-6">6 stars or</span>
 			<span>50 upvotes reddit</span>
 		</div>
 		<div class="tier bg-[url('/images/circly_circle.svg')] mt-12">
 			<p class="text-xl">Tier 2</p>
-			<span class="mt-6">25 stars or</span>
+			<span class="mt-6">20 stars or</span>
 			<span>150 upvotes reddit or</span>
 			<span>40 upvotes HN</span>
 		</div>
 		<div class="tier bg-[url('/images/spiky_circle.svg')]">
 			<p class="text-xl">Tier 3</p>
-			<span class="mt-6">70 stars or</span>
+			<span class="mt-6">60 stars or</span>
 			<span>400 upvotes reddit</span>
 			<span>80 upvotes HN</span>
 		</div>

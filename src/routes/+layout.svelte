@@ -13,7 +13,7 @@
 <div class="min-h-screen flex flex-col relative overflow-hidden">
 	{@render children()}
 
-	<div class="mt-auto text-center mb-8 pt-16">
+	<div class="mt-auto text-center mb-8 pt-20">
 		<a href="https://github.com/KaiPereira" target="_blank" rel="noreferrer" class="inline-block underline decoration-wavy">Made by Kai Pereira :D</a>
 	</div>
 </div>

@@ -23,7 +23,7 @@
 		<div class="tier bg-[url('/images/spiky_circle.svg')]">
 			<p class="text-xl">Tier 3</p>
 			<span class="mt-6">60 stars or</span>
-			<span>400 upvotes reddit</span>
+			<span>400 upvotes reddit or</span>
 			<span>80 upvotes HN</span>
 		</div>
 	</div>

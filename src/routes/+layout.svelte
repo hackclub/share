@@ -7,7 +7,7 @@
 
 <svelte:head>
 	<link rel="icon" href={favicon} />
-	<title>ship projects, get prizes</title>
+	<title>Share Projects, Get Prizes</title>
 </svelte:head>
 
 <div class="min-h-screen flex flex-col relative overflow-hidden">

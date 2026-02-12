@@ -28,7 +28,8 @@
 		</div>
 	</div>
 
-	<a class="button" href="https://forms.hackclub.com/t/nhDGz59P81us" target="_blank" rel="noreferrer">
+	<a href="/docs" class="underline decoration-wavy mt-6">Having trouble going viral? Learn how to ship →</a>
+	<a class="button mt-6" href="https://forms.hackclub.com/t/nhDGz59P81us" target="_blank" rel="noreferrer">
 		Submit a Project →
 	</a>
 </div>

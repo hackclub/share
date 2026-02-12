@@ -11,7 +11,7 @@
 		<div class="tier bg-[url('/images/normal_circle.svg')]">
 			<p class="text-xl">Tier 1</p>
 			<span class="mt-6">6 stars or</span>
-			<span>50 upvotes reddit</span>
+			<span>50 upvotes reddit or</span>
 			<span>15 upvotes HN</span>
 		</div>
 		<div class="tier bg-[url('/images/circly_circle.svg')] mt-12">

@@ -5,7 +5,7 @@
 <div class="min-h-[calc(100vh-240px)] flex flex-col items-center justify-center w-full">
 	<h1 class="text-center text-5xl lg:text-7xl font-bold">Share Projects, Get Prizes</h1>
 
-	<p class="text-center mt-7 text-slate-600">Submits <span class="underline">hardware</span> projects you've shared with the world to get cool prizes like custom shirts, stickers and much more!</p>
+	<p class="text-center mt-7 text-slate-600">Submit <span class="underline">hardware</span> projects you've shared with the world to get cool prizes like custom shirts, stickers and more!</p>
 
 	<div class="flex justify-around gap-0 lg:gap-24 mt-14 flex-wrap">
 		<div class="tier bg-[url('/images/normal_circle.svg')]">

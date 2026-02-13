@@ -8,6 +8,7 @@
 <svelte:head>
 	<link rel="icon" href={favicon} />
 	<title>Share Projects, Get Prizes</title>
+	<meta name="description" content="Submit hardware projects you've shared with the world to get cool prizes like custom shirts, stickers and more!">
 </svelte:head>
 
 <div class="min-h-screen flex flex-col relative overflow-hidden">
